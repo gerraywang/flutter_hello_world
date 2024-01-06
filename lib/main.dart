@@ -1,5 +1,4 @@
 import 'package:flutter/material.dart';
-import 'env.dart';
 
 void main() {
   runApp(const MyApp());
@@ -116,11 +115,7 @@ class _MyHomePageState extends State<MyHomePage> {
             Text(
               const String.fromEnvironment("env", defaultValue: ""),
               style: Theme.of(context).textTheme.headlineMedium,
-            ),
-            Text(
-              Env.env,
-              style: Theme.of(context).textTheme.headlineMedium,
-            ),
+            )
           ],
         ),
       ),
