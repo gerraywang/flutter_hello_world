@@ -1,7 +1,7 @@
 # flutter_hello_world
 
 A new Flutter project.
-# Create the project
+## Create the project
 [Link](https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/07_chapter1_helloworld)
 
 
