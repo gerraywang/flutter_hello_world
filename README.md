@@ -4,7 +4,7 @@ A new Flutter project.
 ## Create the project
 [Link](https://zenn.dev/kazutxt/books/flutter_practice_introduction/viewer/07_chapter1_helloworld)  
 [Dockerfile](https://hasnainm.hashnode.dev/flutter-web-app-to-a-docker-container)  
-※　Change Nginx to the latest version
+※　Change Nginx to the latest version  
 [env](https://blog.nonstopio.com/how-to-create-environment-variables-for-the-flutter-app-da0e95131e03)
 
 ## Getting Started
