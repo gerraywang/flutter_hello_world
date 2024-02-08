@@ -23,4 +23,3 @@ RUN flutter build web
 # Stage 2
 FROM nginx:1.25.3-alpine
 COPY --from=build-env /app/build/web /usr/share/nginx/html
-EXPOSE 8080
